@@ -1,4 +1,3 @@
-# Nobody talks about how lonely being a developer can be Lol ;D
 
 - 🔭 I'm currently working on **ZinoDash | All in One Ghost Kitchen**
 - 🌱 I'm currently learning **Building production-ready AI — LLM evaluation, RAG pipelines, and agentic systems**
@@ -15,7 +14,5 @@
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react native" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/zin-minhtun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zin-minhtun" height="30" width="40" /></a>
-</p>
+<h3 align="left">Hummm.. Nobody talks about how lonely being a developer can be Haha
+</h3>
