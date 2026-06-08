@@ -1,4 +1,4 @@
-# It's me lonely and lazy dev 
+# It's me 👋🏼 lonely and lazy dev.
 - currently working on **ZinoDash | All in One Ghost Kitchen**
 - learning LLM evaluation, and AI agent development for production-ready app
 
