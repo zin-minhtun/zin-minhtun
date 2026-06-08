@@ -13,5 +13,5 @@
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react native" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Humm.. nobody talks about how lonely being a developer can be Haha
+<h3 align="left">Humm.. nobody talks about how lonely being a developer can be 😛 Haha
 </h3>
