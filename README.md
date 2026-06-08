@@ -1,7 +1,6 @@
 
-- 🔭 I'm currently working on **ZinoDash | All in One Ghost Kitchen**
-- 🌱 I'm currently learning **Building production-ready AI — LLM evaluation, RAG pipelines, and agentic systems**
-- 💬 Ask me about **React, Node.js and Oracle**
+- currently working on **ZinoDash | All in One Ghost Kitchen**
+- learning **Building production-ready AI — LLM evaluation, RAG pipelines, and agentic systems**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -14,5 +13,5 @@
 <a href="https://reactnative.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react native" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Hummm.. Nobody talks about how lonely being a developer can be Haha
+<h3 align="left">Humm.. nobody talks about how lonely being a developer can be Haha
 </h3>
