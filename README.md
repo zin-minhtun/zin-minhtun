@@ -1,6 +1,6 @@
 
 - currently working on **ZinoDash | All in One Ghost Kitchen**
-- learning **Building production-ready AI — LLM evaluation, RAG pipelines, and agentic systems**
+- learning LLM evaluation, and AI agent development for production-ready app
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
